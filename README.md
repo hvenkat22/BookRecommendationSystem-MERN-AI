@@ -1,0 +1,1 @@
+This Book Recommendation System project was created by Hari Venkataraman (Github Username: hvenkat22). Users can add, edit, and delete books to their personalized books list and the webpage will display suggestions to the users on what books they should consider adding to their list.
